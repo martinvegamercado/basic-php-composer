@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  vmImage: ubuntu-latest
+  vmImage: Azure Pipelines
 
 variables:
   phpVersion: 8.3
