@@ -6,7 +6,8 @@
 trigger:
 - main
 
-pool: Default
+pool: 
+ vmimage: 'ubuntu-latest'
 
 variables:
   phpVersion: 8.3
